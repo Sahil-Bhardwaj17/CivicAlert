@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "744201278879",
+    "project_id": "civicalert-a726e",
+    "storage_bucket": "civicalert-a726e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744201278879:android:3fd8f92a56c940882919aa",
+        "android_client_info": {
+          "package_name": "com.example.civicalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744201278879-5n432qplagfchgmn45o5sjnge18ssp6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.civicalert",
+            "certificate_hash": "f8c63875e6db73d868ed58730b8b4485a84ac13f"
+          }
+        },
+        {
+          "client_id": "744201278879-1dcc2hcqvmqiin0ntaqech9mnfsk6mua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByL4Rxi_pSz1kF-oOjIiWtB5Ys-ueN5II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744201278879-1dcc2hcqvmqiin0ntaqech9mnfsk6mua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
